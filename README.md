@@ -9,7 +9,7 @@
 - **Project 4:** Comparative Training Methods (Pre-Training (unsupervised), Supervised Fine-Tuning (SFT), and Reinforcement Learning)
    - **Model:** Tiny GPT
    - **Dataset**: WikiText-2
-- **Project 5: **Emerging Models Research
+- **Project 5**: Emerging Models Research
 
 Models: Qwen2.5-VL-7B (multimodal vision-language model) and DeepSeek-Coder-6.7B (specialized code generation model).
 Practical Demonstration: Environment
